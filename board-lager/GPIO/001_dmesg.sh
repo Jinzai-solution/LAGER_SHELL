@@ -1,11 +1,11 @@
 
-echo "checking by dmesg"
+echo "check dmesg"
 
 dmesg | grep gpio_rcar |
 if true; then
 	count=0
 	while read line;do
-		if [[ "$line" == *"driving 32 GPIOs" ]]
+		if [[ "$line" == *"GPIOs" ]]
 			then
 				echo $line
 				((count++))

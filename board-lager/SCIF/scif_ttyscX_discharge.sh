@@ -1,12 +1,12 @@
 #!/bin/sh
 #
 # SCIF test program
-# send testdata_1MB to /dev/ttySC0
+# send testdata_1MB to /dev/ttySC1
 #
 
 ### Configuration ###
 TESTDATA="testdata_1MB"
-DEVFILE_TTYS="/dev/ttySC0"
+DEVFILE_TTYS="/dev/ttySC1"
 
 ### Test Main ###
 TEST_TIME=0

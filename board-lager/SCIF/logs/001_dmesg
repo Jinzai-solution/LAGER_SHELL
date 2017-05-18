@@ -1,0 +1,10 @@
+
+
+NUMBER 1                                               Wed May 17 10:46:47 JST 2017
+=======================================================================================
+sh-sci dmesg feature test
+[    0.093261] e6c50000.serial: ttySC1 at MMIO 0xe6c50000 (irq = 101, base_baud = 0) is a scifa
+[    0.093781] e6e60000.serial: ttySC0 at MMIO 0xe6e60000 (irq = 102, base_baud = 0) is a scif
+-e 
+PASSED
+................................... End of Number 1 ...................................

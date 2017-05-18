@@ -1,0 +1,10 @@
+
+
+NUMBER 1                                               Wed May 17 09:38:31 JST 2017
+=======================================================================================
+SPI-MSIOF dmesg feature test
+[    3.720894] renesas_spi e6b10000.spi: DMA available
+[    3.827944] renesas_spi e6b10000.spi: probed
+-e 
+PASSED
+................................... End of Number 1 ...................................
